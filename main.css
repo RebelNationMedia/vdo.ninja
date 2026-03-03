@@ -66,12 +66,12 @@
 	--widget-width: 25%;
 	
 	/* Original colors */
-	--background-color: #141926;
+	--background-color: #0d0d0d;
 	--dark-background-color: #02050c;
 	--container-color: *373737;
 	--button-color: #2A2A2A;
-	--blue-accent: #4a4c63;
-	--red-accent: #553737;
+	--blue-accent: #3d0a0a;
+	--red-accent: #7a1010;
 	--light-grey: #ddd;
 	--near-black: #02050c;
 	--green-accent: #3f4f50;
@@ -92,7 +92,7 @@
 	--myvideo-height:auto;
 					--myvideo-background: url("./media/3c512beb-cf5e-498e-ad66-daea8e611266.png") center/cover no-repeat;
 				--video-background-image: url("./media/new logo.png");
-			--background-main-image: url("./media/image (28).jpg") center/cover no-repeat fixed;
+			--background-main-image: url("./media/3c512beb-cf5e-498e-ad66-daea8e611266.png") center/cover no-repeat fixed;
 	--show-codirectors: inline-block;
 	--full-screen-button: inherit;
 	--color-mode: light;
@@ -514,7 +514,7 @@ button.hint {
 #header {
 	width: 100%;
 	padding: 1px;
-	background-color: #0F131D;
+	background-color: #0d0d0d;
 	color: #FFF;
 	-webkit-app-region: drag;
 	min-height: 20px;
@@ -1577,7 +1577,7 @@ body {
 	margin: 0;
 	opacity: 1;
 	transition: opacity .1s linear;
-	scrollbar-color:#666 #201c29; 	background-image: url("./media/image (28).jpg"); 	background-size: cover; 	background-position: center; 	background-repeat: no-repeat; 	background-attachment: fixed;
+	scrollbar-color:#666 #201c29; 	background-image: url("./media/3c512beb-cf5e-498e-ad66-daea8e611266.png"); 	background-size: cover; 	background-position: center; 	background-repeat: no-repeat; 	background-attachment: fixed;
 	display:flex;
 	flex-direction: column;
 	position: fixed;
