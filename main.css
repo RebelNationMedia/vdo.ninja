@@ -90,8 +90,8 @@
 	--myvideo-max-width: min(800px,100vw);
 	--myvideo-width:unset;
 	--myvideo-height:auto;
-			--myvideo-background: url("https://static.wixstatic.com/media/d64aea_13dd64d503d245e8b33fd12758937eb6~mv2.png") center/cover no-repeat;
-		--video-background-image: url("https://static.wixstatic.com/media/d64aea_0ebd290b49ed4ec487c0daa2e5930512~mv2.png");
+					--myvideo-background: url("./media/3c512beb-cf5e-498e-ad66-daea8e611266.png") center/cover no-repeat;
+				--video-background-image: url("./media/new logo.png");
 			--background-main-image: url("https://static.wixstatic.com/media/d64aea_4b13d3386fb64ad7bdf3d1a66acb0f28~mv2.jpg") center/cover no-repeat fixed;
 	--show-codirectors: inline-block;
 	--full-screen-button: inherit;
