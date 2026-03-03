@@ -433,7 +433,8 @@ async function main() {
 
 	if (urlParams.has("background") || urlParams.has("appbg")) {
 		// URL or data:base64 image.  Use &chroma if you want to use a color instead of image.
-		let background = urlParams.get("background") || urlParams.get("appbg") || "./media/logo_cropped.png";
+		let background = urlParams.get("background") || urlParams.get("appbg") || "https://imgur.com/a/25shEX2";
+";
 		if (background) {
 			try {
 				background = decodeURIComponent(background);
@@ -8319,3 +8320,4 @@ async function main() {
 		script.src = "./thirdparty/polyfill.min.js"; // dynamically load this only if its needed. Keeps loading time down.
 	}, 100);
 }
+
