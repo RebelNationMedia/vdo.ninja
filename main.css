@@ -91,8 +91,8 @@
 	--myvideo-width:unset;
 	--myvideo-height:auto;
 					--myvideo-background: url("./media/3c512beb-cf5e-498e-ad66-daea8e611266.png") center/cover no-repeat;
-				--video-background-image: url("./media/new logo.png");
-			--background-main-image: url("./media/3c512beb-cf5e-498e-ad66-daea8e611266.png") center/cover no-repeat fixed;
+				--video-background-image: url("./media/3c512beb-cf5e-498e-ad66-daea8e611266.png");
+			--background-main-image: url("./media/image (28).jpg") center/cover no-repeat fixed;
 	--show-codirectors: inline-block;
 	--full-screen-button: inherit;
 	--color-mode: light;
