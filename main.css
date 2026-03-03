@@ -1577,7 +1577,7 @@ body {
 	margin: 0;
 	opacity: 1;
 	transition: opacity .1s linear;
-	scrollbar-color:#666 #201c29;
+	scrollbar-color:#666 #201c29; 	background-image: url("./media/image (28).jpg"); 	background-size: cover; 	background-position: center; 	background-repeat: no-repeat; 	background-attachment: fixed;
 	display:flex;
 	flex-direction: column;
 	position: fixed;
